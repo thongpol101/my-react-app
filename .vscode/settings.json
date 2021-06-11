@@ -1,4 +1,10 @@
 {
     "git.ignoreLimitWarning": true,
-    "svn.ignoreMissingSvnWarning": true
+    "svn.ignoreMissingSvnWarning": true,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "cSpell.words": [
+        "noopener",
+        "noreferrer"
+    ]
 }
